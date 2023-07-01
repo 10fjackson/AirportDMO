@@ -1,0 +1,8 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+onur.kara@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,94,personal,2,{first}.{last},Onur,Kara,,,,,
+info@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,90,generic,19,{first}.{last},,,Support,,,,
+elite@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,83,generic,7,{first}.{last},,,,,,,
+kayip.esya@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,79,personal,2,{first}.{last},,,,,,,
+cevre@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,78,personal,4,{first}.{last},,,,,,,
+marketing@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,78,generic,2,{first}.{last},,,Sales,,,,
+kvkk@antalya-airport.aero,antalya-airport.aero,Antalya Airport,,,,,,10,generic,0,{first}.{last},,,,,,,
